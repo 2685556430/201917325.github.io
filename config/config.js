@@ -1,14 +1,14 @@
 var config = {
     /*在这里配置你的基本信息，所有数据以字符串形式给出*/
-    name: "卢世荣",
+    name: "梁鹤飞",
     sex: "男",
-    age: "19",
-    phone: "19870887127",
-    email: "happysnaker@foxmail.com",
+    age: "21",
+    phone: "16634866288",
+    email: "dlddwl@foxmail.com",
     address: "现居浙江省义乌市",
-    qq: "1637318597",
-    log: "Happysnaker",
-    excpect_work: "Java/Go后端开发",
+    qq: "2685556430",
+    log: "ddwl",
+    excpect_work: "Java/C++后端开发",
 
 
     /*在这里配置首页的座右铭集合*/
