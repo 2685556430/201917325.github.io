@@ -5,7 +5,7 @@ var config = {
     age: "21",
     phone: "16634866288",
     email: "dlddwl@foxmail.com",
-    address: "现居浙江省义乌市",
+    address: "现居河南省郑州市",
     qq: "2685556430",
     log: "ddwl",
     excpect_work: "Java/C++后端开发",
